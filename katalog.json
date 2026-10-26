@@ -1,0 +1,195 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-26T10:32:47Z",
+  "games": [
+    {
+      "slug": "dmc5",
+      "title": "Devil May Cry 5",
+      "tagline": "Türkçe dublaj ve çeviri",
+      "status": "IN_PROGRESS",
+      "studio": "Capcom",
+      "theme": "dmc5",
+      "steam": {
+        "appId": 601150,
+        "exe": "DevilMayCry5.exe"
+      },
+      "install": {
+        "kind": "re-pak",
+        "marker": "DMC5Turkish.json"
+      },
+      "art": {
+        "cover": "/media/dmc5/cover.webp",
+        "logo": "/media/dmc5/logo.webp",
+        "backgrounds": [
+          "/media/dmc5/shot-4.webp",
+          "/media/dmc5/library_hero.webp",
+          "/media/dmc5/shot-1.webp",
+          "/media/dmc5/shot-3.webp",
+          "/media/dmc5/shot-5.webp"
+        ],
+        "shots": [
+          "/media/dmc5/shot-1.webp",
+          "/media/dmc5/shot-2.webp",
+          "/media/dmc5/shot-3.webp",
+          "/media/dmc5/shot-4.webp",
+          "/media/dmc5/shot-5.webp"
+        ],
+        "filter": "brightness(1.25) saturate(1.1)"
+      },
+      "summary": "Nero, Dante ve V'nin hikâyesini baştan sona Türkçe seslendiriyoruz. Ara sahneler, görev konuşmaları, savaş sesleri ve şarkılar.",
+      "about": [
+        "Devil May Cry 5, Capcom'un 2019'da çıkardığı aksiyon oyunu. Red Grave şehrinin ortasında biten dev bir ağaç, Qliphoth, insanların kanıyla beslenmeye başlar. Nero, Dante ve kim olduğu belirsiz V onu durdurmak için yola çıkar.",
+        "Bu projede oyunun bütün metnini Türkçeye çeviriyor, konuşmaların hepsini Türkçe seslendiriyoruz. Kayıtları oyunun kendi ses formatına geri koyuyoruz. Yani altyazı değil, gerçek dublaj: karakterler oyunun içinde Türkçe konuşuyor."
+      ],
+      "scope": {
+        "title": "Kapsam",
+        "items": [
+          "138 ara sahne, yaklaşık 136 dakika konuşma",
+          "Görev içindeki konuşmalar, yaklaşık 40 dakika",
+          "Savaş sesleri, yaklaşık 90 dakika",
+          "Menüler, kütüphane, ipuçları ve oyundaki bütün yazılar",
+          "Savaş şarkıları: Devil Trigger, Subhuman, Crimson Cloud, Bury the Light"
+        ]
+      },
+      "releases": []
+    },
+    {
+      "slug": "limbus-company",
+      "title": "Limbus Company",
+      "tagline": "Türkçe yama",
+      "status": "RELEASED",
+      "studio": "Project Moon",
+      "theme": "limbus",
+      "steam": {
+        "appId": 1973530,
+        "exe": "LimbusCompany.exe"
+      },
+      "install": {
+        "kind": "limbus-lang"
+      },
+      "art": {
+        "cover": "/media/limbus-company/cover.webp",
+        "logo": "/media/limbus-company/logo.webp",
+        "backgrounds": [
+          "/media/limbus-company/library_hero.webp"
+        ],
+        "shots": [
+          "/media/limbus-company/shot-1.webp",
+          "/media/limbus-company/shot-2.webp",
+          "/media/limbus-company/shot-3.webp",
+          "/media/limbus-company/shot-4.webp",
+          "/media/limbus-company/shot-5.webp"
+        ]
+      },
+      "summary": "Prolog ve Canto I baştan sona Türkçe. Yeni çeviriler çıktıkça launcher kendiliğinden günceller.",
+      "about": [
+        "Limbus Company, Project Moon'un sıra tabanlı strateji ve rol yapma oyunu. Limbus Company'nin Yöneticisi olarak on iki Günahkâr'la birlikte Lobotomy Corporation'ın gömülü tesislerine iniyorsun.",
+        "Çeviriyi İngilizce ve Korece metni karşılaştırarak yapıyoruz. Her karakterin konuşma tarzı için bir üslup rehberi, terimler için sözlük tutuyoruz. Yi Sang ağır ve şiirsel, Heathcliff kaba, Ishmael sert konuşuyor. Türkçede de öyle."
+      ],
+      "scope": {
+        "title": "Oyunda olanlar",
+        "items": [
+          "Prolog",
+          "Canto I: Ait Olamayan. 32 sahnenin hepsi, 1.212 replik",
+          "Zindan, bölüm kartları ve hikâye tiyatrosu metinleri"
+        ]
+      },
+      "releases": [
+        {
+          "version": "1.2.1",
+          "title": "Başlık düzeltmesi",
+          "date": "2026-10-13",
+          "notes": [
+            "\"TÜRKÇE YAMA\" başlığındaki harflerde çıkan küçük delikler giderildi",
+            "Başlık üstteki yazıdan biraz aşağı alındı",
+            "Biletin üstünden çıkan kıvılcımlar kaldırıldı",
+            "Çeviride değişiklik yok"
+          ],
+          "package": {
+            "url": "https://github.com/Batu-code/LimbusTurkce/releases/download/v1.2.1/turkce-yama.zip",
+            "size": 113206,
+            "sha256": "d47ff5c0e0aa746d65a9be1e0cb398206690f6b451c6e7e5e972d6848fbb1a26"
+          }
+        },
+        {
+          "version": "1.2.0",
+          "title": "Uygulama baştan tasarlandı",
+          "date": "2026-10-13",
+          "notes": [
+            "Ana tuş artık oyunun kırmızı bileti: Oyna'ya basınca koçanı yırtılır ve oyun açılır",
+            "Güncelleme ve kurulum bilet üzerinde ilerler, bitince KURULDU damgası basılır",
+            "Sürüm notları oyunun dosya klasöründe, arka planda Dante'nin masası",
+            "Oyun dili düğmesi düzeldi: İngilizce seçilince oyun gerçekten İngilizce açılır",
+            "Çeviride değişiklik yok"
+          ],
+          "package": {
+            "url": "https://github.com/Batu-code/LimbusTurkce/releases/download/v1.2.0/turkce-yama.zip",
+            "size": 113206,
+            "sha256": "1433bc89c0ab97e49c89dfcc4df7b633f86b7c123219157b022c6f82aac555e1"
+          }
+        },
+        {
+          "version": "1.1.0",
+          "title": "Yeni görünüm",
+          "date": "2026-10-12",
+          "notes": [
+            "Uygulama Limbus Company'nin kendi arayüz görselleriyle yeniden tasarlandı",
+            "Uygulama kendini otomatik günceller",
+            "Çeviride değişiklik yok"
+          ],
+          "package": {
+            "url": "https://github.com/Batu-code/LimbusTurkce/releases/download/v1.1.0/turkce-yama.zip",
+            "size": 113206,
+            "sha256": "76710566eb9c21a55a9bea991016e2ba67518393f39b090e3e3d481b762b43f9"
+          }
+        },
+        {
+          "version": "1.0.0",
+          "title": "İlk sürüm",
+          "date": "2026-10-12",
+          "notes": [
+            "Prolog (Karanlık Orman) tamamen Türkçe: 7 sahne, Günahkâr profilleri, sondaki animasyonun alt yazıları",
+            "Canto I (Ait Olamayan) tamamen Türkçe: ana hikâyenin 11 bölümü ve zindanın üç katı, 1.212 replik",
+            "Ana menü, Günahkârlar ekranı, bölüm ve oda kartları",
+            "Canto I'deki bütün karakter adları ve unvanları"
+          ],
+          "package": {
+            "url": "https://github.com/Batu-code/LimbusTurkce/releases/download/v1.0.0/turkce-yama.zip",
+            "size": 113206,
+            "sha256": "fb4d4dfa02fc360bbf0a33f1bf258717cbff72e4b048068d770688dab87a6e8b"
+          }
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Subhuman artık Türkçe",
+      "excerpt": "Dante'nin savaş şarkısının Türkçe kaydını oyunun içine koyduk. S rank'a çıktığında artık Türkçe çalıyor.",
+      "date": "2026-10-21",
+      "game": "dmc5",
+      "cover": "/media/dmc5/shot-2.webp"
+    },
+    {
+      "title": "Devil May Cry 5 Türkçe dublaj projesi başladı",
+      "excerpt": "Ara sahneler, görev konuşmaları ve savaş sesleriyle yaklaşık 266 dakikalık konuşmayı Türkçe seslendiriyoruz.",
+      "date": "2026-10-18",
+      "game": "dmc5",
+      "cover": "/media/dmc5/library_hero.webp"
+    },
+    {
+      "title": "Limbus Türkçe Yama 1.2: yeni güncelleyici",
+      "excerpt": "Güncelleyiciyi baştan tasarladık. Dante'nin masası, kırmızı bilet ve tek tuşla dil değişimi.",
+      "date": "2026-10-13",
+      "game": "limbus-company",
+      "cover": "/media/limbus-company/library_hero.webp"
+    },
+    {
+      "title": "Canto I tamamen Türkçe",
+      "excerpt": "Prolog ve Canto I'in 32 sahnesi, 1.212 replik. Hepsi çevrildi, hepsi oyunda.",
+      "date": "2026-10-12",
+      "game": "limbus-company",
+      "cover": "/media/limbus-company/shot-2.webp"
+    }
+  ]
+}

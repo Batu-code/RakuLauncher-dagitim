@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T10:32:47Z",
+  "generatedAt": "2026-11-17T20:46:30Z",
   "games": [
     {
       "slug": "dmc5",
@@ -160,6 +160,66 @@
           }
         }
       ]
+    },
+    {
+      "slug": "suzy-says",
+      "title": "Suzy Says!",
+      "tagline": "Türkçe dublaj ve çeviri",
+      "status": "IN_PROGRESS",
+      "studio": "MOONBIT",
+      "theme": "suzy",
+      "steam": {
+        "appId": 0,
+        "exe": "SuzySays.exe"
+      },
+      "store": {
+        "name": "itch.io",
+        "url": "https://moonbit.itch.io/suzy-says"
+      },
+      "locations": [
+        "%APPDATA%\\itch\\apps\\suzy-says",
+        "%APPDATA%\\itch\\apps\\suzy-says\\SuzySays",
+        "%APPDATA%\\itch\\apps\\Suzy Says!",
+        "%APPDATA%\\itch\\apps\\Suzy Says!\\SuzySays",
+        "%USERPROFILE%\\Downloads\\SuzySays\\SuzySays",
+        "%USERPROFILE%\\Downloads\\SuzySays",
+        "%USERPROFILE%\\Desktop\\SuzySays\\SuzySays",
+        "%USERPROFILE%\\Desktop\\SuzySays"
+      ],
+      "install": {
+        "kind": "c3-bundle",
+        "marker": "www/RakuTurkce.json"
+      },
+      "art": {
+        "cover": "/media/suzy-says/cover.webp",
+        "logo": "/media/suzy-says/logo.webp",
+        "backgrounds": [
+          "/media/suzy-says/shot-2.webp",
+          "/media/suzy-says/shot-1.webp",
+          "/media/suzy-says/shot-4.webp"
+        ],
+        "shots": [
+          "/media/suzy-says/shot-1.webp",
+          "/media/suzy-says/shot-2.webp",
+          "/media/suzy-says/shot-3.webp",
+          "/media/suzy-says/shot-4.webp",
+          "/media/suzy-says/shot-5.webp"
+        ]
+      },
+      "summary": "Suzy'nin bütün repliklerini Türkçe seslendiriyoruz. Altyazılar, menüler ve ayarlar da Türkçe.",
+      "about": [
+        "Suzy Says!, MOONBIT'in birinci şahıs korku oyunu. Bir arkadaşının evinden dönüyorsun ve odanda gizemli bir DVD oyunu buluyorsun. Ekranda güler yüzlü Suzy, yerde dört renkli bir halı var. Kural basit: Suzy ne derse onu yap. Ama ne olursa olsun Suzy'yi hayal kırıklığına uğratma.",
+        "Oyundaki bütün yazıları Türkçeye çeviriyor, konuşmaları Türkçe seslendiriyoruz. Launcher yamayı oyunun kendi dosyasına yazar, yamasız hâlini yanında saklar. Kaldırınca oyun ilk hâline döner."
+      ],
+      "scope": {
+        "title": "Kapsam",
+        "items": [
+          "Bütün altyazılar, menüler ve ayarlar",
+          "Suzy'nin bütün replikleri, yaklaşık 4 dakika Türkçe seslendirme",
+          "Annenin telefon konuşmaları ve radyodaki adamın sesi"
+        ]
+      },
+      "releases": []
     }
   ],
   "news": [

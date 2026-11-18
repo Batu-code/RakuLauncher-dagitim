@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T14:23:44Z",
+  "generatedAt": "2026-11-18T14:42:44Z",
   "games": [
     {
       "slug": "dmc5",
@@ -81,7 +81,7 @@
           "/media/limbus-company/shot-5.webp"
         ]
       },
-      "summary": "Prolog ve Canto I baştan sona Türkçe. Yeni çeviriler çıktıkça launcher kendiliğinden günceller.",
+      "summary": "Limbus Company Türkçe yaması çok yakında sizlerle. Hikâyeyi, arayüzü ve oyundaki bütün metinleri Türkçeye çeviriyoruz.",
       "about": [
         "Limbus Company, Project Moon'un sıra tabanlı strateji ve rol yapma oyunu. Limbus Company'nin Yöneticisi olarak on iki Günahkâr'la birlikte Lobotomy Corporation'ın gömülü tesislerine iniyorsun.",
         "Çeviriyi İngilizce ve Korece metni karşılaştırarak yapıyoruz. Her karakterin konuşma tarzı için bir üslup rehberi, terimler için sözlük tutuyoruz. Yi Sang ağır ve şiirsel, Heathcliff kaba, Ishmael sert konuşuyor. Türkçede de öyle."
@@ -89,9 +89,13 @@
       "scope": {
         "title": "Oyunda olanlar",
         "items": [
-          "Prolog",
-          "Canto I: Ait Olamayan. 32 sahnenin hepsi, 1.212 replik",
-          "Zindan, bölüm kartları ve hikâye tiyatrosu metinleri"
+          "Ana hikâye: Prolog ve bütün Canto'lar",
+          "Ara bölümler (Intervallo)",
+          "Zindan ve diğer oyun modlarının metinleri",
+          "Kimlik ve E.G.O. hikâyeleri ve açıklamaları",
+          "Etkinlik hikâyeleri",
+          "Beceri, pasif ve durum etkisi açıklamaları",
+          "Menüler, arayüz ve oyundaki bütün yazılar"
         ]
       },
       "releases": []

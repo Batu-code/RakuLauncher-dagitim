@@ -1,6 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T15:22:16Z",
+  "generatedAt": "2026-11-18T15:34:07Z",
+  "site": "https://rakustudio-production.up.railway.app",
   "games": [
     {
       "slug": "dmc5",

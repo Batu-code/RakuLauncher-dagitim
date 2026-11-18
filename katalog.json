@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T14:50:23Z",
+  "generatedAt": "2026-11-18T15:11:58Z",
   "games": [
     {
       "slug": "dmc5",
@@ -192,6 +192,13 @@
     }
   ],
   "news": [
+    {
+      "title": "Suzy Says! Türkçe dublajı çıktı",
+      "excerpt": "Suzy, annesi ve radyodaki adam artık Türkçe konuşuyor. Yama Raku Launcher'da, tek tıkla kuruluyor.",
+      "date": "2026-11-18",
+      "game": "suzy-says",
+      "cover": "/media/suzy-says/shot-2.webp"
+    },
     {
       "title": "Devil May Cry 5 Türkçe dublaj projesi başladı",
       "excerpt": "Ara sahneler, görev konuşmaları ve savaş sesleriyle yaklaşık 266 dakikalık konuşmayı Türkçe seslendiriyoruz.",

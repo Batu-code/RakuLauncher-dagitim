@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T14:42:44Z",
+  "generatedAt": "2026-11-18T14:50:23Z",
   "games": [
     {
       "slug": "dmc5",
@@ -158,6 +158,20 @@
           "Annenin telefon konuşmaları ve radyodaki adamın sesi"
         ]
       },
+      "cast": [
+        {
+          "role": "Suzy",
+          "actor": "Rana Pala"
+        },
+        {
+          "role": "Anne",
+          "actor": "Nazmiye Can"
+        },
+        {
+          "role": "Radyodaki adam",
+          "actor": "Abdullah Taha Can"
+        }
+      ],
       "releases": [
         {
           "version": "1.0.0",

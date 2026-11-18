@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-17T20:46:30Z",
+  "generatedAt": "2026-11-18T14:15:40Z",
   "games": [
     {
       "slug": "dmc5",
@@ -165,7 +165,7 @@
       "slug": "suzy-says",
       "title": "Suzy Says!",
       "tagline": "Türkçe dublaj ve çeviri",
-      "status": "IN_PROGRESS",
+      "status": "RELEASED",
       "studio": "MOONBIT",
       "theme": "suzy",
       "steam": {
@@ -219,37 +219,32 @@
           "Annenin telefon konuşmaları ve radyodaki adamın sesi"
         ]
       },
-      "releases": []
+      "releases": [
+        {
+          "version": "1.0.0",
+          "title": "İlk sürüm",
+          "date": "2026-11-18",
+          "notes": [
+            "Suzy'nin bütün replikleri Türkçe seslendirildi",
+            "Anne ve radyodaki adam da Türkçe",
+            "Altyazılar, menüler ve ayarlar Türkçe"
+          ],
+          "package": {
+            "url": "https://github.com/Batu-code/RakuLauncher-dagitim/releases/download/suzy-says-v1.0.0/suzy-says-turkce-1.0.0.zip",
+            "size": 16780744,
+            "sha256": "21a9c35fd5cd9dc379b97641f589f12dc1de798e2ce7ca0fddfadbaeee1d20b7"
+          }
+        }
+      ]
     }
   ],
   "news": [
-    {
-      "title": "Subhuman artık Türkçe",
-      "excerpt": "Dante'nin savaş şarkısının Türkçe kaydını oyunun içine koyduk. S rank'a çıktığında artık Türkçe çalıyor.",
-      "date": "2026-10-21",
-      "game": "dmc5",
-      "cover": "/media/dmc5/shot-2.webp"
-    },
     {
       "title": "Devil May Cry 5 Türkçe dublaj projesi başladı",
       "excerpt": "Ara sahneler, görev konuşmaları ve savaş sesleriyle yaklaşık 266 dakikalık konuşmayı Türkçe seslendiriyoruz.",
       "date": "2026-10-18",
       "game": "dmc5",
       "cover": "/media/dmc5/library_hero.webp"
-    },
-    {
-      "title": "Limbus Türkçe Yama 1.2: yeni güncelleyici",
-      "excerpt": "Güncelleyiciyi baştan tasarladık. Dante'nin masası, kırmızı bilet ve tek tuşla dil değişimi.",
-      "date": "2026-10-13",
-      "game": "limbus-company",
-      "cover": "/media/limbus-company/library_hero.webp"
-    },
-    {
-      "title": "Canto I tamamen Türkçe",
-      "excerpt": "Prolog ve Canto I'in 32 sahnesi, 1.212 replik. Hepsi çevrildi, hepsi oyunda.",
-      "date": "2026-10-12",
-      "game": "limbus-company",
-      "cover": "/media/limbus-company/shot-2.webp"
     }
   ]
 }

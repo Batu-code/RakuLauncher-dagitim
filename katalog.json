@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T15:11:58Z",
+  "generatedAt": "2026-11-18T15:22:16Z",
   "games": [
     {
       "slug": "dmc5",
@@ -145,7 +145,7 @@
           "/media/suzy-says/shot-5.webp"
         ]
       },
-      "summary": "Suzy'nin bütün repliklerini Türkçe seslendiriyoruz. Altyazılar, menüler ve ayarlar da Türkçe.",
+      "summary": "Suzy'nin bütün repliklerini Türkçe seslendirdik. Altyazılar, menüler ve ayarlar da Türkçe.",
       "about": [
         "Suzy Says!, MOONBIT'in birinci şahıs korku oyunu. Bir arkadaşının evinden dönüyorsun ve odanda gizemli bir DVD oyunu buluyorsun. Ekranda güler yüzlü Suzy, yerde dört renkli bir halı var. Kural basit: Suzy ne derse onu yap. Ama ne olursa olsun Suzy'yi hayal kırıklığına uğratma.",
         "Oyundaki bütün yazıları Türkçeye çeviriyor, konuşmaları Türkçe seslendiriyoruz. Launcher yamayı oyunun kendi dosyasına yazar, yamasız hâlini yanında saklar. Kaldırınca oyun ilk hâline döner."

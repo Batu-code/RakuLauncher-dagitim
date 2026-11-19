@@ -1,12 +1,13 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T15:34:07Z",
-  "site": "https://rakustudio-production.up.railway.app",
+  "generatedAt": "2026-11-19T12:21:07Z",
+  "site": "https://www.rakustudio.com.tr",
   "games": [
     {
       "slug": "dmc5",
       "title": "Devil May Cry 5",
       "tagline": "Türkçe dublaj ve çeviri",
+      "taglineEn": "Turkish dub and translation",
       "status": "IN_PROGRESS",
       "studio": "Capcom",
       "theme": "dmc5",
@@ -38,9 +39,14 @@
         "filter": "brightness(1.25) saturate(1.1)"
       },
       "summary": "Nero, Dante ve V'nin hikâyesini baştan sona Türkçe seslendiriyoruz. Ara sahneler, görev konuşmaları, savaş sesleri ve şarkılar.",
+      "summaryEn": "We're voicing Nero, Dante and V's whole story in Turkish. Cutscenes, mission dialogue, combat voices and songs.",
       "about": [
         "Devil May Cry 5, Capcom'un 2019'da çıkardığı aksiyon oyunu. Red Grave şehrinin ortasında biten dev bir ağaç, Qliphoth, insanların kanıyla beslenmeye başlar. Nero, Dante ve kim olduğu belirsiz V onu durdurmak için yola çıkar.",
         "Bu projede oyunun bütün metnini Türkçeye çeviriyor, konuşmaların hepsini Türkçe seslendiriyoruz. Kayıtları oyunun kendi ses formatına geri koyuyoruz. Yani altyazı değil, gerçek dublaj: karakterler oyunun içinde Türkçe konuşuyor."
+      ],
+      "aboutEn": [
+        "Devil May Cry 5 is Capcom's 2019 action game. A giant tree, the Qliphoth, erupts in the middle of Red Grave City and starts feeding on human blood. Nero, Dante and the mysterious V set out to stop it.",
+        "In this project we're translating all of the game's text into Turkish and voicing every line of dialogue in Turkish. The recordings go back into the game's own audio format. So it's not subtitles but a real dub: the characters speak Turkish inside the game."
       ],
       "scope": {
         "title": "Kapsam",
@@ -52,12 +58,23 @@
           "Savaş şarkıları: Devil Trigger, Subhuman, Crimson Cloud, Bury the Light"
         ]
       },
+      "scopeEn": {
+        "title": "Scope",
+        "items": [
+          "138 cutscenes, about 136 minutes of dialogue",
+          "In-mission dialogue, about 40 minutes",
+          "Combat voices, about 90 minutes",
+          "Menus, library, tips and all in-game text",
+          "Battle songs: Devil Trigger, Subhuman, Crimson Cloud, Bury the Light"
+        ]
+      },
       "releases": []
     },
     {
       "slug": "limbus-company",
       "title": "Limbus Company",
       "tagline": "Türkçe yama",
+      "taglineEn": "Turkish patch",
       "status": "IN_PROGRESS",
       "studio": "Project Moon",
       "theme": "limbus",
@@ -83,9 +100,14 @@
         ]
       },
       "summary": "Limbus Company Türkçe yaması çok yakında sizlerle. Hikâyeyi, arayüzü ve oyundaki bütün metinleri Türkçeye çeviriyoruz.",
+      "summaryEn": "The Limbus Company Turkish patch is coming soon. We're translating the story, the interface and all in-game text into Turkish.",
       "about": [
         "Limbus Company, Project Moon'un sıra tabanlı strateji ve rol yapma oyunu. Limbus Company'nin Yöneticisi olarak on iki Günahkâr'la birlikte Lobotomy Corporation'ın gömülü tesislerine iniyorsun.",
         "Çeviriyi İngilizce ve Korece metni karşılaştırarak yapıyoruz. Her karakterin konuşma tarzı için bir üslup rehberi, terimler için sözlük tutuyoruz. Yi Sang ağır ve şiirsel, Heathcliff kaba, Ishmael sert konuşuyor. Türkçede de öyle."
+      ],
+      "aboutEn": [
+        "Limbus Company is Project Moon's turn-based strategy RPG. As the Manager of Limbus Company, you descend into the buried facilities of Lobotomy Corporation with twelve Sinners.",
+        "We translate by comparing the English and Korean scripts. We keep a style guide for how each character speaks and a glossary for terms. Yi Sang is weighty and poetic, Heathcliff is rough, Ishmael is blunt. In Turkish too."
       ],
       "scope": {
         "title": "Oyunda olanlar",
@@ -99,12 +121,25 @@
           "Menüler, arayüz ve oyundaki bütün yazılar"
         ]
       },
+      "scopeEn": {
+        "title": "What's in the patch",
+        "items": [
+          "Main story: the Prologue and every Canto",
+          "Intervallos",
+          "Text for dungeons and other game modes",
+          "Identity and E.G.O stories and descriptions",
+          "Event stories",
+          "Skill, passive and status effect descriptions",
+          "Menus, interface and all in-game text"
+        ]
+      },
       "releases": []
     },
     {
       "slug": "suzy-says",
       "title": "Suzy Says!",
       "tagline": "Türkçe dublaj ve çeviri",
+      "taglineEn": "Turkish dub and translation",
       "status": "RELEASED",
       "studio": "MOONBIT",
       "theme": "suzy",
@@ -147,9 +182,14 @@
         ]
       },
       "summary": "Suzy'nin bütün repliklerini Türkçe seslendirdik. Altyazılar, menüler ve ayarlar da Türkçe.",
+      "summaryEn": "We voiced all of Suzy's lines in Turkish. Subtitles, menus and settings are in Turkish too.",
       "about": [
         "Suzy Says!, MOONBIT'in birinci şahıs korku oyunu. Bir arkadaşının evinden dönüyorsun ve odanda gizemli bir DVD oyunu buluyorsun. Ekranda güler yüzlü Suzy, yerde dört renkli bir halı var. Kural basit: Suzy ne derse onu yap. Ama ne olursa olsun Suzy'yi hayal kırıklığına uğratma.",
         "Oyundaki bütün yazıları Türkçeye çeviriyor, konuşmaları Türkçe seslendiriyoruz. Launcher yamayı oyunun kendi dosyasına yazar, yamasız hâlini yanında saklar. Kaldırınca oyun ilk hâline döner."
+      ],
+      "aboutEn": [
+        "Suzy Says! is MOONBIT's first-person horror game. You're coming home from a friend's house and find a mysterious DVD game in your room. On screen there's a smiling Suzy, on the floor a four-coloured mat. The rule is simple: do what Suzy says. But whatever happens, don't let Suzy down.",
+        "We translate all of the game's text into Turkish and voice its dialogue in Turkish. The launcher writes the patch into the game's own file and keeps the unpatched version next to it. Remove it and the game goes back to how it was."
       ],
       "scope": {
         "title": "Kapsam",
@@ -159,17 +199,28 @@
           "Annenin telefon konuşmaları ve radyodaki adamın sesi"
         ]
       },
+      "scopeEn": {
+        "title": "Scope",
+        "items": [
+          "All subtitles, menus and settings",
+          "All of Suzy's lines, about 4 minutes of Turkish voice acting",
+          "Mom's phone calls and the voice of the man on the radio"
+        ]
+      },
       "cast": [
         {
           "role": "Suzy",
+          "roleEn": "Suzy",
           "actor": "Rana Pala"
         },
         {
           "role": "Anne",
+          "roleEn": "Mom",
           "actor": "Nazmiye Can"
         },
         {
           "role": "Radyodaki adam",
+          "roleEn": "The man on the radio",
           "actor": "Abdullah Taha Can"
         }
       ],
@@ -177,11 +228,17 @@
         {
           "version": "1.0.0",
           "title": "İlk sürüm",
+          "titleEn": "First release",
           "date": "2026-11-18",
           "notes": [
             "Suzy'nin bütün replikleri Türkçe seslendirildi",
             "Anne ve radyodaki adam da Türkçe",
             "Altyazılar, menüler ve ayarlar Türkçe"
+          ],
+          "notesEn": [
+            "All of Suzy's lines voiced in Turkish",
+            "Mom and the man on the radio in Turkish too",
+            "Subtitles, menus and settings in Turkish"
           ],
           "package": {
             "url": "https://github.com/Batu-code/RakuLauncher-dagitim/releases/download/suzy-says-v1.0.0/suzy-says-turkce-1.0.0.zip",
@@ -195,14 +252,18 @@
   "news": [
     {
       "title": "Suzy Says! Türkçe dublajı çıktı",
+      "titleEn": "The Suzy Says! Turkish dub is out",
       "excerpt": "Suzy, annesi ve radyodaki adam artık Türkçe konuşuyor. Yama Raku Launcher'da, tek tıkla kuruluyor.",
+      "excerptEn": "Suzy, Mom and the man on the radio now speak Turkish. The patch is in Raku Launcher, one click to install.",
       "date": "2026-11-18",
       "game": "suzy-says",
       "cover": "/media/suzy-says/shot-2.webp"
     },
     {
       "title": "Devil May Cry 5 Türkçe dublaj projesi başladı",
+      "titleEn": "Our Devil May Cry 5 Turkish dub has begun",
       "excerpt": "Ara sahneler, görev konuşmaları ve savaş sesleriyle yaklaşık 266 dakikalık konuşmayı Türkçe seslendiriyoruz.",
+      "excerptEn": "We're voicing about 266 minutes of dialogue in Turkish: cutscenes, mission dialogue and combat voices.",
       "date": "2026-10-18",
       "game": "dmc5",
       "cover": "/media/dmc5/library_hero.webp"

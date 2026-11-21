@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-21T09:37:12Z",
+  "generatedAt": "2026-11-21T10:22:58Z",
   "site": "https://www.rakustudio.com.tr",
   "games": [
     {
@@ -234,6 +234,25 @@
       ],
       "releases": [
         {
+          "version": "1.1.1",
+          "title": "Replik araları",
+          "titleEn": "Pauses between lines",
+          "date": "2026-11-21",
+          "notes": [
+            "Repliklerin sonundaki duraklamalar orijinaldeki gibi: Suzy adını sorduktan sonra artık cevabını bekliyor",
+            "Anne ve radyo repliklerinde de araların temposu düzeltildi"
+          ],
+          "notesEn": [
+            "The pauses after lines now match the original: Suzy waits for your answer after asking your name",
+            "Timing between lines fixed for Mom and the radio too"
+          ],
+          "package": {
+            "url": "https://github.com/Batu-code/RakuLauncher-dagitim/releases/download/suzy-says-v1.1.1/suzy-says-turkce-1.1.1.zip",
+            "size": 16239459,
+            "sha256": "af522a6dcb4cac981e9c4ca7299010f7fb530f085e0e4d404be63e8da0988f3f"
+          }
+        },
+        {
           "version": "1.1.0",
           "title": "Sadece dublaj",
           "titleEn": "Dub only",
@@ -247,12 +266,7 @@
             "Through our collaboration with MOONBIT, Turkish subtitles were added to the game itself, this release only installs the Turkish dub",
             "Works with the new version of the game and the Full version",
             "Requires Raku Launcher 0.1.7 or later"
-          ],
-          "package": {
-            "url": "https://github.com/Batu-code/RakuLauncher-dagitim/releases/download/suzy-says-v1.1.0/suzy-says-turkce-1.1.0.zip",
-            "size": 16231890,
-            "sha256": "90e758d071e085b0df45f80b5a736df6c3cd9b7845a7e18d19b2fed553070e68"
-          }
+          ]
         },
         {
           "version": "1.0.0",

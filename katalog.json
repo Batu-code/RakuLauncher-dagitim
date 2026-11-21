@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-21T09:04:41Z",
+  "generatedAt": "2026-11-21T09:37:12Z",
   "site": "https://www.rakustudio.com.tr",
   "games": [
     {
@@ -145,7 +145,10 @@
       "theme": "suzy",
       "steam": {
         "appId": 0,
-        "exe": "SuzySays.exe"
+        "exe": "SuzySays.exe",
+        "altExes": [
+          "SuzySays_Full.exe"
+        ]
       },
       "store": {
         "name": "itch.io",
@@ -159,7 +162,12 @@
         "%USERPROFILE%\\Downloads\\SuzySays\\SuzySays",
         "%USERPROFILE%\\Downloads\\SuzySays",
         "%USERPROFILE%\\Desktop\\SuzySays\\SuzySays",
-        "%USERPROFILE%\\Desktop\\SuzySays"
+        "%USERPROFILE%\\Desktop\\SuzySays",
+        "%APPDATA%itchappssuzy-saysSuzySays_Full",
+        "%USERPROFILE%DownloadsSuzySays_FullSuzySays_Full",
+        "%USERPROFILE%DownloadsSuzySays_Full",
+        "%USERPROFILE%DesktopSuzySays_FullSuzySays_Full",
+        "%USERPROFILE%DesktopSuzySays_Full"
       ],
       "install": {
         "kind": "c3-media",

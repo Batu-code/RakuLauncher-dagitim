@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T12:21:07Z",
+  "generatedAt": "2026-11-21T09:04:41Z",
   "site": "https://www.rakustudio.com.tr",
   "games": [
     {
@@ -162,7 +162,7 @@
         "%USERPROFILE%\\Desktop\\SuzySays"
       ],
       "install": {
-        "kind": "c3-bundle",
+        "kind": "c3-media",
         "marker": "www/RakuTurkce.json"
       },
       "art": {
@@ -181,8 +181,8 @@
           "/media/suzy-says/shot-5.webp"
         ]
       },
-      "summary": "Suzy'nin bütün repliklerini Türkçe seslendirdik. Altyazılar, menüler ve ayarlar da Türkçe.",
-      "summaryEn": "We voiced all of Suzy's lines in Turkish. Subtitles, menus and settings are in Turkish too.",
+      "summary": "Suzy'nin bütün repliklerini Türkçe seslendirdik. MOONBIT ile yaptığımız iş birliğiyle Türkçe altyazı oyunun kendisine eklendi, launcher dublajı kurar.",
+      "summaryEn": "We voiced all of Suzy's lines in Turkish. Through our collaboration with MOONBIT, Turkish subtitles were added to the game itself, the launcher installs the dub.",
       "about": [
         "Suzy Says!, MOONBIT'in birinci şahıs korku oyunu. Bir arkadaşının evinden dönüyorsun ve odanda gizemli bir DVD oyunu buluyorsun. Ekranda güler yüzlü Suzy, yerde dört renkli bir halı var. Kural basit: Suzy ne derse onu yap. Ama ne olursa olsun Suzy'yi hayal kırıklığına uğratma.",
         "Oyundaki bütün yazıları Türkçeye çeviriyor, konuşmaları Türkçe seslendiriyoruz. Launcher yamayı oyunun kendi dosyasına yazar, yamasız hâlini yanında saklar. Kaldırınca oyun ilk hâline döner."
@@ -194,17 +194,17 @@
       "scope": {
         "title": "Kapsam",
         "items": [
-          "Bütün altyazılar, menüler ve ayarlar",
           "Suzy'nin bütün replikleri, yaklaşık 4 dakika Türkçe seslendirme",
-          "Annenin telefon konuşmaları ve radyodaki adamın sesi"
+          "Annenin telefon konuşmaları ve radyodaki adamın sesi",
+          "MOONBIT ile yaptığımız iş birliğiyle Türkçe altyazılar oyunun kendisinde (çeviri Raku Studio)"
         ]
       },
       "scopeEn": {
         "title": "Scope",
         "items": [
-          "All subtitles, menus and settings",
           "All of Suzy's lines, about 4 minutes of Turkish voice acting",
-          "Mom's phone calls and the voice of the man on the radio"
+          "Mom's phone calls and the voice of the man on the radio",
+          "Through our collaboration with MOONBIT, Turkish subtitles are built into the game (translated by Raku Studio)"
         ]
       },
       "cast": [
@@ -226,6 +226,27 @@
       ],
       "releases": [
         {
+          "version": "1.1.0",
+          "title": "Sadece dublaj",
+          "titleEn": "Dub only",
+          "date": "2026-11-21",
+          "notes": [
+            "MOONBIT ile yaptığımız iş birliğiyle Türkçe altyazı oyunun kendisine eklendi, bu sürüm sadece Türkçe dublajı kurar",
+            "Oyunun yeni sürümüyle ve Full sürümüyle uyumlu",
+            "Raku Launcher 0.1.7 ve sonrası gerekir"
+          ],
+          "notesEn": [
+            "Through our collaboration with MOONBIT, Turkish subtitles were added to the game itself, this release only installs the Turkish dub",
+            "Works with the new version of the game and the Full version",
+            "Requires Raku Launcher 0.1.7 or later"
+          ],
+          "package": {
+            "url": "https://github.com/Batu-code/RakuLauncher-dagitim/releases/download/suzy-says-v1.1.0/suzy-says-turkce-1.1.0.zip",
+            "size": 16231890,
+            "sha256": "90e758d071e085b0df45f80b5a736df6c3cd9b7845a7e18d19b2fed553070e68"
+          }
+        },
+        {
           "version": "1.0.0",
           "title": "İlk sürüm",
           "titleEn": "First release",
@@ -239,14 +260,14 @@
             "All of Suzy's lines voiced in Turkish",
             "Mom and the man on the radio in Turkish too",
             "Subtitles, menus and settings in Turkish"
-          ],
-          "package": {
-            "url": "https://github.com/Batu-code/RakuLauncher-dagitim/releases/download/suzy-says-v1.0.0/suzy-says-turkce-1.0.0.zip",
-            "size": 16780744,
-            "sha256": "21a9c35fd5cd9dc379b97641f589f12dc1de798e2ce7ca0fddfadbaeee1d20b7"
-          }
+          ]
         }
-      ]
+      ],
+      "partner": {
+        "name": "MOONBIT",
+        "label": "MOONBIT ile resmî iş birliği",
+        "labelEn": "Official collaboration with MOONBIT"
+      }
     }
   ],
   "news": [

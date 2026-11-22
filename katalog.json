@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-21T10:22:58Z",
+  "generatedAt": "2026-11-22T11:38:12Z",
   "site": "https://www.rakustudio.com.tr",
   "games": [
     {
@@ -163,11 +163,11 @@
         "%USERPROFILE%\\Downloads\\SuzySays",
         "%USERPROFILE%\\Desktop\\SuzySays\\SuzySays",
         "%USERPROFILE%\\Desktop\\SuzySays",
-        "%APPDATA%itchappssuzy-saysSuzySays_Full",
-        "%USERPROFILE%DownloadsSuzySays_FullSuzySays_Full",
-        "%USERPROFILE%DownloadsSuzySays_Full",
-        "%USERPROFILE%DesktopSuzySays_FullSuzySays_Full",
-        "%USERPROFILE%DesktopSuzySays_Full"
+        "%APPDATA%\\itch\\apps\\suzy-says\\SuzySays_Full",
+        "%USERPROFILE%\\Downloads\\SuzySays_Full\\SuzySays_Full",
+        "%USERPROFILE%\\Downloads\\SuzySays_Full",
+        "%USERPROFILE%\\Desktop\\SuzySays_Full\\SuzySays_Full",
+        "%USERPROFILE%\\Desktop\\SuzySays_Full"
       ],
       "install": {
         "kind": "c3-media",
@@ -290,6 +290,69 @@
         "label": "MOONBIT ile resmî iş birliği",
         "labelEn": "Official collaboration with MOONBIT"
       }
+    },
+    {
+      "slug": "dimenshot",
+      "title": "Dimenshot",
+      "tagline": "Türkçe dublaj",
+      "taglineEn": "Turkish dub",
+      "status": "RELEASED",
+      "studio": "Flexberg Games",
+      "theme": "dimenshot",
+      "inGame": true,
+      "steam": {
+        "appId": 3897080,
+        "exe": "Dimenshot.exe"
+      },
+      "install": {
+        "kind": "in-game"
+      },
+      "art": {
+        "cover": "https://www.rakustudio.com.tr/media/projects/dimenshot/cover.jpg",
+        "logo": "https://www.rakustudio.com.tr/media/projects/dimenshot/logo.png",
+        "backgrounds": [
+          "https://www.rakustudio.com.tr/media/projects/dimenshot/sahne.jpg",
+          "https://www.rakustudio.com.tr/media/projects/dimenshot/shot-1.jpg",
+          "https://www.rakustudio.com.tr/media/projects/dimenshot/shot-4.jpg"
+        ],
+        "shots": [
+          "https://www.rakustudio.com.tr/media/projects/dimenshot/shot-1.jpg",
+          "https://www.rakustudio.com.tr/media/projects/dimenshot/shot-2.jpg",
+          "https://www.rakustudio.com.tr/media/projects/dimenshot/shot-3.jpg",
+          "https://www.rakustudio.com.tr/media/projects/dimenshot/shot-4.jpg",
+          "https://www.rakustudio.com.tr/media/projects/dimenshot/shot-5.jpg"
+        ]
+      },
+      "summary": "Flexberg Games ile resmî iş birliğiyle oyunu Türkçe seslendirdik. Dublaj oyunun kendisinde, ayarlardan Türkçeyi seçmen yeterli.",
+      "summaryEn": "In an official collaboration with Flexberg Games, we voiced the game in Turkish. The dub is built into the game, just pick Turkish in the settings.",
+      "about": [
+        "Dimenshot, Flexberg Games'in yakın dövüşe dayalı boomer shooter'ı. Her biri Yedi Ölümcül Günah'tan birini temsil eden, kendine has dünyalarda geçiyor. Asıl silahın yakın dövüş silahların, düşmanlardan kaptığın ateşli silahlar sadece arayı kapatmana yarıyor.",
+        "Flexberg Games ile resmî bir iş birliği yaptık ve oyunun Türkçe dublajını hazırladık. Dublaj oyunun kendisinde: Steam'de Türkçe tam ses desteğiyle listeleniyor. Launcher'ın kuracağı bir şey yok, oyunu Steam'den alıp ayarlardan Türkçeyi seçmen yeterli."
+      ],
+      "aboutEn": [
+        "Dimenshot is a melee-focused boomer shooter by Flexberg Games, set in distinct worlds that each represent one of the Seven Deadly Sins. Your melee weapons are your main tools, firearms scavenged from fallen enemies are there to close the distance.",
+        "We worked with Flexberg Games in an official collaboration and voiced the game in Turkish. The dub is built into the game, Steam lists Turkish with full audio support. There's nothing for the launcher to install, get the game on Steam and pick Turkish in the settings."
+      ],
+      "scope": {
+        "title": "Kapsam",
+        "items": [
+          "Oyunun Türkçe dublajı, Flexberg Games ile resmî iş birliği",
+          "Dublaj oyunun kendisinde, Steam'de Türkçe tam ses desteği"
+        ]
+      },
+      "scopeEn": {
+        "title": "Scope",
+        "items": [
+          "The game's Turkish dub, an official collaboration with Flexberg Games",
+          "The dub is built into the game, Turkish full audio support on Steam"
+        ]
+      },
+      "partner": {
+        "name": "Flexberg Games",
+        "label": "Flexberg Games ile resmî iş birliği",
+        "labelEn": "Official collaboration with Flexberg Games"
+      },
+      "releases": []
     }
   ],
   "news": [

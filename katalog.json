@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-22T17:01:59Z",
+  "generatedAt": "2026-11-22T17:18:26Z",
   "site": "https://www.rakustudio.com.tr",
   "games": [
     {
@@ -347,6 +347,28 @@
           "The dub is built into the game, Turkish full audio support on Steam"
         ]
       },
+      "cast": [
+        {
+          "role": "Wrath",
+          "roleEn": "Wrath",
+          "actor": "Mert Topal"
+        },
+        {
+          "role": "Proud",
+          "roleEn": "Proud",
+          "actor": "M. Alper Kaya"
+        },
+        {
+          "role": "Grand",
+          "roleEn": "Grand",
+          "actor": "Abdullah Taha Can"
+        },
+        {
+          "role": "Syroth",
+          "roleEn": "Syroth",
+          "actor": "Miray Özdönmez"
+        }
+      ],
       "partner": {
         "name": "Flexberg Games",
         "label": "Flexberg Games ile resmî iş birliği",

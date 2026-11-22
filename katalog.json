@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-22T11:38:12Z",
+  "generatedAt": "2026-11-22T17:01:59Z",
   "site": "https://www.rakustudio.com.tr",
   "games": [
     {
@@ -138,8 +138,8 @@
     {
       "slug": "suzy-says",
       "title": "Suzy Says!",
-      "tagline": "Türkçe dublaj ve çeviri",
-      "taglineEn": "Turkish dub and translation",
+      "tagline": "Türkçe dublaj ve resmî çeviri",
+      "taglineEn": "Turkish dub and official translation",
       "status": "RELEASED",
       "studio": "MOONBIT",
       "theme": "suzy",
@@ -294,8 +294,8 @@
     {
       "slug": "dimenshot",
       "title": "Dimenshot",
-      "tagline": "Türkçe dublaj",
-      "taglineEn": "Turkish dub",
+      "tagline": "Resmî Türkçe dublaj",
+      "taglineEn": "Official Turkish dub",
       "status": "RELEASED",
       "studio": "Flexberg Games",
       "theme": "dimenshot",
